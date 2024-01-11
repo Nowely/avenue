@@ -1,8 +1,9 @@
+import {Landing} from "../pages/Landing/Home";
 
 export default function Home() {
-  return (
-    <main>
-      Hello
-    </main>
-  )
+    return (
+        <main>
+            <Landing/>
+        </main>
+    )
 }
